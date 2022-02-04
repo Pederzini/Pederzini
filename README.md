@@ -1,5 +1,5 @@
 ![catsBanner](https://user-images.githubusercontent.com/70399469/130787230-8290906a-98a9-4f9c-bf22-555b7a9d21eb.png)
-# Bem-vindo ao meu repositório :yellow_heart:
+# Boas-vindas, visitante :yellow_heart:
 ## Um pouquinho sobre mim :sparkles:
 Apaixonado por gatos e amante do metal extremo, especialmente Technical Death Metal.
 
